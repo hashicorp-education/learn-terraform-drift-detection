@@ -1,7 +1,7 @@
 terraform {
   cloud {
     workspaces {
-      name = "learn-terraform-cloud-drift-detection"
+      name = "learn-terraform-drift-detection"
     }
   }
 
